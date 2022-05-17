@@ -18,21 +18,19 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/kaiofelims" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-kaiofelims-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/kaiofelims" target="_blank"> 
+
+<a href="https://twitter.com/kaiofelims/" target="_blank"> 
   <img align="center" src="https://img.shields.io/badge/-kaiofelims -05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/kaiofelims" target="_blank">
+<a href="https://www.linkedin.com/in/kaio-felipe-666150128/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kaiofelims-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/kaiofelims" target="_blank">
+<a href="https://instagram.com/kaiofeli.ms/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-kaiofelims-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
-  OBSERVAÇões
+  OBSERVAÇões :
 
 - 🔭  procuro de uma oprotunidade de  estagio para iniciante ...
 - 🌱  estou estudando  html,css,javscript ...
